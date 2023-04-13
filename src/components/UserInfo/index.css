@@ -1,0 +1,22 @@
+/* Write your CSS code here */
+.profile-container {
+  height: 45%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 35%;
+}
+.profile-img {
+  width: 20%;
+  height: 20%;
+}
+.p-head {
+  color: #12022f;
+  font-size: 36px;
+}
+.p-label {
+  font-size: 19px;
+  font-weight: 500;
+  color: #616e7c;
+}

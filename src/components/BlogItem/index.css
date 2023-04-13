@@ -1,0 +1,23 @@
+/* Write your CSS code here */
+.blog-list {
+  display: flex;
+  flex-direction: column;
+}
+.blog-header {
+  display: flex;
+  justify-content: space-between;
+}
+.blog-title-head {
+  color: #12022f;
+  font-size: 28px;
+}
+.blog-published {
+  color: #9aa5b1;
+}
+.separator {
+  color: #616e7c;
+}
+.blog-description {
+  color: #9aa5b1;
+  font-size: 18px;
+}
